@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+}
+
+body{
+    background: url(https://www.icegif.com/wp-content/uploads/2023/10/icegif-498.gif);
+    background-repeat: repeat;
+}
+.bg{
+    background-repeat: repeat-x;
+    background-repeat: repeat-y;
+}
+
+.center{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+#blue{
+    border: 1px solid blue;
+}
+
+#heart{
+    text-align: center;
+}
